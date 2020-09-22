@@ -3,7 +3,8 @@ Hybrid-Spectral-Net for Hyperspectral Image Classification.
 
 <https://opensource.org/licenses/MIT>
 <https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=hybridsn-exploring-3d-2d-cnn-feature>
-\#\# Description
+
+## Description
 
 The HybridSN is spectral-spatial 3D-CNN followed by spatial 2D-CNN. The 3D-CNN
 facilitates the joint spatial-spectral feature representation from a stack of
