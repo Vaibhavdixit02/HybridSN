@@ -1,7 +1,7 @@
 Hybrid-Spectral-Net for Hyperspectral Image Classification.
 ===========================================================
 
-<https://opensource.org/licenses/MIT>
+
 <https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=hybridsn-exploring-3d-2d-cnn-feature>
 
 ## Description
@@ -31,7 +31,7 @@ Results
 
 ### Indian Pines (IP) dataset
 
-Fig.2 The IN dataset classification result (Overall Accuracy 99.81%) of
+Fig.2 The in dataset classification result (Overall Accuracy 99.81%) of
 Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground
 truth labels. (c) Classification map. (d) Class legend.
 
